@@ -1,3 +1,6 @@
-csv_files/
-.DS_Store
+*.csv
+*.xlsx
+*.db
+*.duckdb
 .vscode/
+.DS_Store
