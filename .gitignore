@@ -1,1 +1,10 @@
 csv_files/
+*.csv
+*.xlsx
+*.db
+*.duckdb
+.vscode/
+.DS_Store
+CREATE_TABLE_job_applied.sql
+INSERT_INTO_job_applied.sql
+sql_course.session.sql
