@@ -20,7 +20,7 @@ ON jp.company_id = cd.company_id
 WHERE 
     job_title_short = 'Data Analyst'
     AND job_location = 'Germany'
-    --AND salary_year_avg IS NOT NULL
+    AND salary_year_avg IS NOT NULL
 
 ORDER BY
     salary_year_avg DESC
